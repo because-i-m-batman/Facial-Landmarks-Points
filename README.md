@@ -1,6 +1,6 @@
 # Facial-Landmarks-Points
 
-Using dlib libaray 68 and 194 facial landmarks points are detected
+Using dlib libaray 68 facial landmarks points are detected
 
 # Installation for dlib library
 
