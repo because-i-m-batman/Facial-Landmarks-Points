@@ -7,7 +7,7 @@ import dlib
 import cv2
 
 detector = dlib.get_frontal_face_detector()
-predictor = dlib.shape_predictor("shape_predictor_194_face_landmarks.dat")
+predictor = dlib.shape_predictor("shape_predictor_68_face_landmarks.dat")
 
 # load the input image, resize it, and convert it to grayscale
 video_capture = cv2.VideoCapture(0)
